@@ -32,7 +32,7 @@ Una vez abierto Android Studio Giraffe se le mostrara una ventana de nombre 'Wel
 
 Ahora estara en la sección 'Select a system image'
 -
-- En la pestaña 'Recommended' escoja en el apartado de 'Release Name' la imagen 'API 34'
+- En la pestaña 'Recommended' escoja en el apartado de 'Release Name' la imagen 'API 34' (si no tiene la imagen, haga click en el icono al lado derecho del nombre, se iniciara una descarga, cuando la descarga termine pulse 'Finish')
 - Haga click en 'Next'
 - (en caso de que no tenga la imagen, esta se descargara, en caso de que el proceso lo haya redirigido a la pagina de inicio, vuelva a realizar los pasos hasta llegar a este punto nuevamente)
 - Agreguele un nombre a su dispositivo
