@@ -143,7 +143,7 @@ namespace backend.Controllers
                 return BadRequest(ModelState);
             }
 
-            if (IsValidBirthDate(request.BirthDate))
+            if (!IsValidBirthDate(request.BirthDate))
             {
                 ModelState.AddModelError("Error", "El año de nacimiento es invalido. debe ser entre 1900 y el año presente.");
                 return BadRequest(ModelState);
