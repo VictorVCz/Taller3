@@ -20,7 +20,6 @@ Una vez abierto android studio giraffe (si es primera vez) se le mostrara la ven
 - Seleccione el tema de UI de su preferencia y pulse 'Next'
 - pulse 'Next'
 - Ahora en la ventana de nombre 'License Agreement' Acepte las 2 o 3 licencias que se le solicitan. (android-sdk-license, android-sdk-arm-dbt-licence y intel-android-extra-license) y pulse 'Finish'
-- 
 
 
 Una vez abierto Android Studio Giraffe se le mostrara una ventana de nombre 'Welcome to Android Studio'
