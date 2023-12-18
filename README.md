@@ -40,7 +40,7 @@ Luego de crear un dispositivo android
 ## Backend (.NET 7)
 Abre la carpeta del backend:
 
-cd Dumbobe
+cd backend
 
 Restaura los paquetes NuGet:
 
