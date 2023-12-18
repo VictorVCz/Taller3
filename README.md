@@ -9,7 +9,19 @@ Se requiere de la version .NET 7 SDK https://dotnet.microsoft.com/en-us/download
 Se necesita de un emulador android, de preferencia android studio version giraffe 2022.3.1 : https://developer.android.com/studio?hl=es-419
 Acepte los terminos y condiciones para poder descargar el software.
 
-Luego de haber descargado todo lo necesario, procede a Abrir android studio para crear un emulador android
+Luego de haber descargado todo lo necesario, procede a instalar android studio con el objetivo de crear un emulador android
+
+al iniciar por primera vez le pedira si quiere importar su configuracion anterior, de preferencia elija 'Do not import settings' y pulse 'Ok'
+
+Una vez abierto android studio giraffe (si es primera vez) se le mostrara la ventana de 'Welcome'
+-
+- pulse 'Next'
+- Escoja el setup 'Standard' y pulse 'Next'
+- Seleccione el tema de UI de su preferencia y pulse 'Next'
+- pulse 'Next'
+- Ahora en la ventana de nombre 'License Agreement' Acepte las 2 o 3 licencias que se le solicitan. (android-sdk-license, android-sdk-arm-dbt-licence y intel-android-extra-license) y pulse 'Finish'
+- 
+
 
 Una vez abierto Android Studio Giraffe se le mostrara una ventana de nombre 'Welcome to Android Studio'
 -
